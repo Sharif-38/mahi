@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.body{
+    width: 100vw;
+    height: 100vh;
+    font-family: 'Times New Roman', Times, serif;
+}
+h1{
+    font-size:50px;
+    text-align: center;
+     text-decoration: underline;
+     text-align: bold;
+     background: pink;
+}
+
+.continer{
+    
+     display: grid;
+     grid-template-columns:300px 200px 120px;
+     grid-template-rows:250px 150px 200px;
+     gap: 10px;
+     height: auto;
+     align-content: center;
+}
+
+
+
+.div1{
+   
+    background: green;
+    padding:15px;
+    margin: 10px;
+}
+.item1{
+    grid-column: 1/3;
+}

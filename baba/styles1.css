@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.continar{
+    width: 400px;
+    margin: 100px;
+    position: relative;
+    left: 50%;
+    text-align: justify;
+    background: palegoldenrod;
+    padding: 20px;
+}
+.span{
+    font-size: 50px;
+    color:tomato;
+}
+.under:hover{
+    background: red;
+    cursor: pointer;
+}
+em{
+    font-size: 30px;
+    color: blue;
+}
+a{
+    background-color: aqua;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 2px;
+    margin: 3px;
+
+}
+.pn:hover{
+ color: aqua;
+ cursor:pointer;
+}

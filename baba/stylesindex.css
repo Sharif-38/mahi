@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* header start */
+.contini{
+    display: flex;
+    background: gainsboro;
+}
+.ima{
+    
+    margin: 10px;
+    font-size:30px;
+    position: relative;
+    left: 100px;
+}
+b{
+    color:red;
+}
+.unoder{
+    display: flex;
+    gap: 30px;
+    list-style-type: none;
+     position: relative;
+     left:500px;
+    font-size: 20px;
+    font-style: bold;
+    margin: 15px;
+    height: 50px;
+    
+}
+.a{
+    color:black;
+    
+}
+/* header end */
+/* main start */
+
+.img{
+    width: 400px;
+    position: relative;
+    left: 200px;
+    border: 5px solid gainsboro;
+
+}
+
+.middal{
+    margin: 80px;
+    display: flex;
+}
+.h1{
+    font-size: 60px;
+}
+.div1{
+    background:white;
+    width: 400px;
+    
+}
+.div2{
+    display: flex;
+}
+.hed{
+    font-size: 40px;
+    text-align: center;
+}
+.par{
+    font-size: 20px;
+    text-align: center;
+}
+.all{
+    background: coral;
+    display: flex;
+}
+.ab{
+    background: red;
+}
